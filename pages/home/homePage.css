@@ -1,0 +1,52 @@
+.home_banner {
+    background-color: bisque;
+    height: 200px;
+}
+
+.flex_banner {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #DBD0CC;
+    padding: 32px  16px;
+}
+
+.btn-banner {
+    width: 160px;
+    height: 50px;
+    border-radius: 20px;
+    color: #A86A3D;
+    border-color: indianred;
+    background-color: white;
+}
+
+.btn-banner:hover {
+    color: white;
+    border-color: white;
+    background-color: #A86A3D;
+    transition: all 0.5s ease-in-out;
+}
+
+.homePage__righBanner {
+    margin-left: 16.0px !important;
+    color: #A86A3D;
+}
+
+.homePage__bannerImage {
+    width: 100% !important;
+    border-radius: 50% !important;
+}
+
+
+.homePage_bannerRightTitle {
+    color: black;
+}
+
+.homePage__article__title {
+    font-size: 18.0px !important;
+    margin-top: 32px;
+    color: black;
+}
+/* .homePage_articleCard {
+    padding-right: 24px !important;
+} */
